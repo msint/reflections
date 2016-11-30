@@ -12,8 +12,8 @@ change?
 Staging area contains many files that change per logical change.
 Use the staging area to make changes.
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+In some situatios like doing some experiments and made changes but not sure it will work, or adding some new features that have lots of changes so it is easier to track the bug if it exists. 
 
 How do the diagrams help you visualize the branch structure?
 
