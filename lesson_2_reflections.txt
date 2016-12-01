@@ -23,3 +23,10 @@ There will be only one branch that contains the combination the files in two bra
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+auto merging: 
+pros: faster if no conflict
+cons: if conflict exists, it fails.
+
+manual merging:
+pros: better with conflict
+cons: slower 
