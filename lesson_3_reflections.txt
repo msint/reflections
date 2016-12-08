@@ -19,5 +19,7 @@ We can see the new changes that get updated in remote or locally
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 We could manually merge the files in collaboration without using Git or GitHub. However, it would be harder.  Using Git or GitHub would be easier.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When I want to make changes that is not sure it is working or adding a new feature or bug fix.  Make changes in master branch has no conflict; creating a new branch and merging can have conflict 
 
 
