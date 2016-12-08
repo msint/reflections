@@ -16,4 +16,8 @@ branches is creating a new branch in the same repository either in gitHub or in 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 We can see the new changes that get updated in remote or locally 
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+We could manually merge the files in collaboration without using Git or GitHub. However, it would be harder.  Using Git or GitHub would be easier.
+
+
 
